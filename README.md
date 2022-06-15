@@ -1,10 +1,27 @@
-<h1 align="center">Hi 👋, I'm Ítalo Gustavo</h1>
-<h3 align="center">A passionate Front-End and Python Developer</h3>
+<h2 align="center">👋 Olá, Meu nome é Ítalo</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=italogustavos" alt="italogustavos" /> </p>
+###
+<p align="center">Sou um desenvolvedor iniciante em Python</p>
 
-- 🌱 I’m currently learning **Python** and **JavaScript**.
+###
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=false&username=ItaloGustavoS " height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false&username=ItaloGustavoS " height="150" alt="languages graph"  />
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italogustavos&layout=compact&hide=html" alt="italogustavos" /></p>
+###
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=italogustavos" alt="italogustavos" />
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=italogustavos&show_icons=true" alt="italogustavos" /></p>
+###
+<img href="https://github.com/ItaloGustavoS /ItaloGustavoS /blob/output/snake.svg" alt="Snake animation" />
+
+###
+<div align="center">
+  <a href="linkedin.com/in/italogustavoggsenna" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
